@@ -32,3 +32,7 @@
 
 **Deixa tudo Minusculo**
 ```nome.toLowerCase()```
+
+**Para escrever no meio do texto**
+para se escrever no meio do texto ao invez de aspaz "" utilizase craze `` e ${variavel}
+```windows.alert(`Olá ${nome}! Seu nome tem ${nome.length} letras.`)```
